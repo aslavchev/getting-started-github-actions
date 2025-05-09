@@ -38,8 +38,8 @@ jobs:
           java -version
           echo Is Git installed?
           git --version
-          echo What abotu build tools
+          echo What abotu build tools?
           mvn --version
-          gradele --version
-          ant --version
+          gradle --version
+          ant -version
           
